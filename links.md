@@ -7,4 +7,4 @@ Links that helped me
 
 [Branch and merge](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
-[New branch to github (CLI)](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+[New branch to github (through CLI)](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
